@@ -79,6 +79,8 @@ The application is deployed using **Streamlit Cloud** and supports real-time inf
 cardiac-risk-app/
 │
 ├── app.py
+├── train_model.py
+├── split_dataset.py
 ├── requirements.txt
 ├── gradcam_result.png
 ├── cardiac_risk_model/
